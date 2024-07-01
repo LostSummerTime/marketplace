@@ -1,4 +1,5 @@
 shell.nix
 backend/node_modules
+backend/dist
 backend/build
 frontend/node_modules
