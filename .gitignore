@@ -1,0 +1,4 @@
+shell.nix
+backend/node_modules
+backend/build
+frontend/node_modules
